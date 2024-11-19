@@ -15,7 +15,7 @@
         </div>
       </div>
       <div class="hero-image">
-        <img src="/99838_2.jpg" alt="logo" />
+        <img src="https://s.img.122211.xyz/6cfe425e30d8b9dcf99245c9937d3b90.jpg" alt="图床图片调用" />
       </div>
     </div>
 
