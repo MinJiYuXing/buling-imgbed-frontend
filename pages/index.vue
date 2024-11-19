@@ -15,7 +15,7 @@
         </div>
       </div>
       <div class="hero-image">
-        <img src="/logo.png" alt="logo" />
+        <img src="/99838_2.jpg" alt="logo" />
       </div>
     </div>
 
