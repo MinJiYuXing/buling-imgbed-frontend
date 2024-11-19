@@ -20,7 +20,7 @@ export default defineNuxtConfig({
     // 应用级配置
     app: {
         head: {
-            title: '布灵图床',
+            title: 'TG图床',
             meta: [
                 { charset: 'utf-8' },
                 { name: 'viewport', content: 'width=device-width, initial-scale=1' },
